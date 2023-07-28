@@ -1,0 +1,14 @@
+.container{
+  width: 250px;
+  border: 2px solid black;
+}
+
+img{
+  width: 50%;
+  height: auto;
+  float: right;
+}
+
+.clear{
+  clear: both;
+}

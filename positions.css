@@ -1,0 +1,32 @@
+.static-box{
+  position: static;
+  background-color: lightblue;
+}
+
+.relative-box{
+  position: relative;
+  top: 20px;
+  left: 50px;
+  background-color: lightseagreen;
+}
+
+.container{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  background-color: lightcyan;
+}
+
+.absolute-box{
+  position: absolute;
+  top: 50px;
+  left: 60px;
+  background-color: lightslategray;
+}
+
+.fixed-box{
+  position: fixed;
+  top: 20px;
+  right: 20px;
+}
+

@@ -1,0 +1,7 @@
+.block-element{
+  display: block;
+  width: 200px;
+  height: 50px;
+  background-color: lightblue;
+  margin-bottom: 10px;
+}

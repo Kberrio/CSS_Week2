@@ -1,0 +1,27 @@
+a:hover{
+  color: green;
+}
+
+button:active{
+  background-color: green;
+}
+
+input:focus{
+  background-color: green;
+}
+
+ul li:first-child{
+  font-weight: bold;
+}
+
+ul li:nth-child(odd){
+  background-color: lightblue;
+}
+
+ul li:nth-child(even){
+  background-color: lightgreen;
+}
+
+ul li:hover{
+  background-color: red;
+}

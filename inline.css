@@ -1,0 +1,6 @@
+.inline-element{
+  display: inline;
+  padding: 5px;
+  background-color: lightgreen;
+  margin-right: 10px;
+}
